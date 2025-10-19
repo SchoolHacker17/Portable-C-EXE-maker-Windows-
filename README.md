@@ -1,4 +1,4 @@
-# Portable C++ EXE maker Windows
+# Portable C++ EXE maker for Windows
 
 Turn any C++ source code file into a fully portable EXE with a few clicks!
 
